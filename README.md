@@ -93,15 +93,6 @@ I'm a **motivated Data Scientist and Analyst** with a passion for solving real-w
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srushtikandagal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtikandagal&theme=tokyonight" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtikandagal&layout=compact&theme=tokyonight" />
 </p>
 
