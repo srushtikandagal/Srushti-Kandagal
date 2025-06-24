@@ -1,9 +1,15 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=800&height=45&lines=🚀+Data+Scientist+%7C+ML+%7C+NLP+%7C+Gen+AI+Expert;🔍+Exploring+AI+to+solve+real-world+problems!;🎨+Blending+Technology+with+Design!;⚙️+MLOps+%7C+CI%2FCD+%7C+Model+Monitoring+%7C+Production+ML;📦+Deploying+robust+ML+pipelines+at+scale;🧠+Mathematics+is+the+language+of+the+universe.;💡+Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.;📊+In+God+we+trust,+all+others+bring+data.;🔗+Transforming+ideas+into+scalable+solutions." alt="Typing SVG">
+</p>
+
+<!-- Header -->
 <h1 align="center">Hi, I'm Srushti Kandagal 👋</h1>
 <h3 align="center">📊 Data Analyst | 🤖 Data Scientist | 🚀 Generative AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:srushtimkandagal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/srushtikandagal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/srushtikandagal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/srushtikandagal"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -14,7 +20,7 @@
 I'm a passionate **Data Science and GenAI enthusiast** creating intelligent solutions with a strong focus on **Data Science, Gen AI, MLOps, and Model Deployment**.
 
 🎯 Currently: **AI/ML Intern @ Imarticus Learning**  
-🎯 Previously: **Engineer @ Vayavya Labs** – Built AI Chatbots & ADAS features  
+🎯 Previously: **Engineer @ Vayavya Labs**
 🎯 Education: **B.Tech in CSE | PG in Machine Learning & AI (Ongoing)**
 
 🚀 I love building AI-driven tools for real-world problems—blending technology with creativity to deliver impactful, scalable solutions.
@@ -25,7 +31,7 @@ I'm a passionate **Data Science and GenAI enthusiast** creating intelligent solu
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
