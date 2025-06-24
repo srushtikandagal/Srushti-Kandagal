@@ -20,18 +20,19 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ---
 
-## 🔧 My Tech Toolbox
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-006400?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
+### Languages & Frameworks  
+Python • R • PyTorch • TensorFlow • Hugging Face • LangChain
+
+### Data Processing & ML  
+Pandas • NumPy • Scikit-learn
+
+### Gen AI & NLP  
+OpenAI • Transformers • Ollama
+
+### Visualization & Deployment  
+Matplotlib • Seaborn • Power BI • Docker • MLflow
 
 ---
 
@@ -56,7 +57,7 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ---
 
-## 🏅 Certifications
+## 📜 Certifications
 
 - 🤖 Hugging Face & LangChain - *Krish Naik*  
 - 📊 PL-300: Power BI Data Analyst - *Udemy*  
@@ -65,7 +66,7 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srushtikandagal&show_icons=true&theme=tokyonight" />
@@ -74,6 +75,27 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ---
 
-> _“Turning AI concepts into impactful, production-ready applications.”_
+## 📊 Most Used Languages
 
-🚀 *Let’s connect if you’re hiring or collaborating on AI-driven solutions!*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtikandagal&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to reach out for collaborations, discussions, or just to say hi!  
+📧 Email: srushtimkandagal@gmail.com  
+💼 LinkedIn: [linkedin.com/in/srushtikandagal](https://www.linkedin.com/in/srushtikandagal)  
+🐙 GitHub: [github.com/srushtikandagal](https://github.com/srushtikandagal)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=srushtikandagal" alt="visitor badge"/>
+</p>
+
+---
+
+> _“Turning AI concepts into impactful, production-ready applications.”_
