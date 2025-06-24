@@ -81,12 +81,6 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srushtikandagal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtikandagal&theme=tokyonight" />
-</p>
-
----
 
 ## 📊 Most Used Languages
 
