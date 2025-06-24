@@ -20,7 +20,7 @@ I'm a **motivated Data Scientist and Analyst** with a passion for solving real-w
 
 🎯 Currently: **Data Science Intern @ Imarticus Learning**  
 🎯 Previously: **Engineer @ Vayavya Labs**
-               **AI/ML Intern at QuantMasters**
+🎯 Previously: **AI/ML Intern at QuantMasters**
 🎯 Education: **B.Tech in CSE | PG in Machine Learning & AI (Ongoing)**
 
 🚀 I love building AI-driven tools for real-world problems—blending technology with creativity to deliver impactful, scalable solutions.
