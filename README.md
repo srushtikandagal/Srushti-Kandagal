@@ -34,6 +34,13 @@ I'm a **motivated Data Scientist and Analyst** with a passion for solving real-w
 🚀 I love building AI-driven tools for real-world problems—blending technology with creativity to deliver impactful, scalable solutions.
 
 ---
+<p align="center">
+  <a href="mailto:srushtimkandagal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/srushtikandagal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/srushtikandagal"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+
 
 ## 🛠️ Tech Stack
 
