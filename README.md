@@ -96,6 +96,14 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srushtikandagal&theme=radical&no-frame=true&column=7&margin-w=15" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 Feel free to reach out for collaborations, discussions, or just to say hi!  
