@@ -1,77 +1,76 @@
-<h1 align="center">Hi there, I'm Srushti Kandagal 👋</h1>
-<h3 align="center">🚀 Data Scientist | Generative AI Explorer | Streamlit Developer</h3>
+# Generate the README.md file with the formatted content
+readme_content = """
+# 👋 Hi, I'm Srushti Kandagal — Data & AI Specialist
 
-<p align="center">
-  <a href="mailto:srushtimkandagal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/srushtikandagal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/srushtikandagal"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+🔍 Actively seeking full-time roles in **Data Science | AI/ML Engineering | NLP | Data Analytics**  
+📍 Location Preference: India (Open to Remote/Hybrid) | 🕒 Availability: Immediate Joiner
 
 ---
 
-## 👩‍💻 About Me
+## 💡 About Me
 
-I'm a passionate **Data Scientist** actively working with **Large Language Models (LLMs)**, **Generative AI**, and **NLP** to build innovative applications. My expertise lies in **prompt engineering**, **text summarization**, **RAG pipelines**, and developing **Streamlit-based dashboards** for real-time insights.
+I’m a data-driven problem solver with a strong background in **Machine Learning, AI, NLP, and Data Analytics**. I build scalable, insight-rich solutions — from dashboards to GenAI apps — that simplify decision-making and amplify impact.
 
-- 🌱 Currently: AI/ML Intern @ Imarticus Learning  
-- 💼 Previously: Engineer @ Vayavya Labs, focused on AI Chatbots & ADAS  
-- 🎓 Education: B.Tech in CSE | PG in Machine Learning & AI (Ongoing)
-
----
-
-## 🔧 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-006400?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
+🎓 PGP in ML & AI | B.Tech in CSE  
+🛠️ Tools: Python, LangChain, OpenAI, SQL, Power BI  
+📊 Passion: Using AI + data to solve real-world challenges
 
 ---
 
-## 🚀 Projects
+## ⚒️ Tech Stack
 
-### 📘 AI Blog Evaluator
-**Tech**: Python, Hugging Face, Streamlit, OpenAI  
-- Scrapes blog URLs, performs summarization & originality checks  
-- Uses GPT-4 for zero-shot blog summarization  
-- Flags AI vs Human-authored content with 95% precision  
-- Deployed with a Streamlit dashboard for mentor review
+**Languages & Tools**  
+`Python` • `SQL` • `TensorFlow` • `Keras` • `LangChain` • `Hugging Face` • `OpenAI API`
 
-### 📊 Data Insight Platform
-**Tech**: Python, PyMuPDF, Pinecone, Streamlit  
-- Simulates real-time retail/IoT data  
-- Renders dynamic ML predictions  
-- Supports PDF-based RAG Q&A
+**Data Analytics & Visualization**  
+`Pandas` • `NumPy` • `EDA` • `Power BI` • `Plotly` • `Advanced Excel` • `Streamlit`
 
-### 🏥 Hospital Management DBMS
-**Tech**: MySQL  
-- Role-based secure CRUD system  
-- Optimized query responses for patient record management
+**ML & AI Engineering**  
+`Scikit-learn` • `Deep Learning` • `Model Evaluation` • `NLP Pipelines` • `LLMs` • `RAG`
+
+**Database & Deployment**  
+`MySQL` • `Microsoft SQL Server` • `Docker` • `PyMuPDF` • `Prompt Engineering`
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 NLP Blog Evaluator (AI vs Human, GPT-4, Cohere)  
+> Auto-summarizes blogs, detects AI content, and displays readability scores — accelerated mentor evaluations by 30%.
+
+### 🔎 Data Insight Platform (Streamlit + ML + RAG)  
+> Real-time simulation + predictions + PDF Q&A — built for retail, IoT, and document intelligence.
+
+### 🏥 Hospital Management DBMS (MySQL + Access Control)  
+> Designed normalized schemas, secure CRUD operations, and optimized data access.
 
 ---
 
 ## 📜 Certifications
 
-- Hugging Face & LangChain AI Course — *Krish Naik*  
-- PL-300: Power BI Data Analyst — *Udemy*  
-- 100 Days of Python Pro Bootcamp  
-- Data Analyst Bootcamp — *Krish Naik*
+- 🧠 Hugging Face & LangChain – Complete AI Stack  
+- 📊 Microsoft Power BI (PL-300 Prep)  
+- 🔍 Data Analyst Bootcamp – Krish Naik  
+- 🐍 100 Days of Python – Udemy  
+- 📐 Mathematics for Gen AI – Krish Naik
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srushtikandagal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtikandagal&theme=tokyonight" />
-</p>
+I’m open to **Data Analyst**, **Data Scientist**, **AI/ML Engineer**, and **NLP roles**.  
+Let’s collaborate or chat about exciting opportunities!
 
----
+📧 Email: [srushtimkandagal@gmail.com](mailto:srushtimkandagal@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/srushtikandagal](https://linkedin.com/in/srushtikandagal)  
+🐙 GitHub: [github.com/srushtikandagal](https://github.com/srushtikandagal)
 
-_“Turning ideas into interactive AI-powered applications.”_
+> _“The best way to predict the future is to create it.” – Peter Drucker_
+"""
+
+# Save the README.md content
+file_path = "/mnt/data/README.md"
+with open(file_path, "w") as file:
+    file.write(readme_content)
+
+file_path
