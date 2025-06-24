@@ -7,20 +7,7 @@
 <h1 align="center">Hi There, I'm Srushti Kandagal 👋</h1>
 
 
-<p align="center">
-  <a href="mailto:srushtimkandagal@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/srushtikandagal">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/srushtikandagal">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
+<
 ## 👩‍💻 About Me
 
 I'm a **motivated Data Scientist and Analyst** with a passion for solving real-world problems through **Data Science, Generative AI, MLOps, and scalable model deployment**. With hands-on experience in **Python, SQL, Power BI**, and tools like **LangChain, Hugging Face**, and **OpenAI APIs**, I build end-to-end solutions that are not just technically sound, but also impactful. I thrive in collaborative teams, adapt quickly to new challenges, and bring a strong sense of ownership and clarity to every project I work on.
@@ -28,7 +15,7 @@ I'm a **motivated Data Scientist and Analyst** with a passion for solving real-w
 
 🎯 Currently: **Data Science Intern @ Imarticus Learning**  
 🎯 Previously: **Engineer @ Vayavya Labs**
-🎯 Previously: **AI/ML Intern at QuantMasters**
+               **AI/ML Intern at QuantMasters**
 🎯 Education: **B.Tech in CSE | PG in Machine Learning & AI (Ongoing)**
 
 🚀 I love building AI-driven tools for real-world problems—blending technology with creativity to deliver impactful, scalable solutions.
