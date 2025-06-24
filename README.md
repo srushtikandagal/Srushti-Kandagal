@@ -11,12 +11,13 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm a **Data Analyst & Data Scientist** with strong expertise in **machine learning**, **data storytelling**, and **Generative AI**. I build end-to-end solutions for insights, automation, and decision support using tools like **Python**, **Power BI**, **LLMs**, and **Streamlit**.
+I'm a passionate **Data Science and GenAI enthusiast** creating intelligent solutions with a strong focus on **Data Science, Gen AI, MLOps, and Model Deployment**.
 
-- 🔍 Actively exploring roles in **Data Science**, **Analytics**, or **AI-powered product development**
-- 🌱 Currently: **AI/ML Intern @ Imarticus Learning**
-- 💼 Previously: **Engineer @ Vayavya Labs** – Built AI Chatbots & worked on ADAS
-- 🎓 Education: B.Tech (CSE) | PG in Machine Learning & AI (Ongoing)
+🎯 Currently: **AI/ML Intern @ Imarticus Learning**  
+🎯 Previously: **Engineer @ Vayavya Labs** – Built AI Chatbots & ADAS features  
+🎯 Education: **B.Tech in CSE | PG in Machine Learning & AI (Ongoing)**
+
+🚀 I love building AI-driven tools for real-world problems—blending technology with creativity to deliver impactful, scalable solutions.
 
 ---
 
