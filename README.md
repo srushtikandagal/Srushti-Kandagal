@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Srushti Kandagal 👋</h1>
-<h3 align="center">🚀 Data Scientist | Generative AI Enthusiast | Streamlit Developer</h3>
+<h3 align="center">📊 Data Analyst | 🤖 Data Scientist | 🚀 Generative AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:srushtimkandagal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -11,9 +11,9 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Generative AI**, **LLMs**, and **NLP applications**. I specialize in transforming complex problems into deployable, AI-powered solutions using tools like **Streamlit**, **LangChain**, and **OpenAI APIs**.
+Hi! I'm a **Data Analyst & Data Scientist** with strong expertise in **machine learning**, **data storytelling**, and **Generative AI**. I build end-to-end solutions for insights, automation, and decision support using tools like **Python**, **Power BI**, **LLMs**, and **Streamlit**.
 
-- 🔍 Actively seeking roles in **AI/ML**, **Data Science**, or **GenAI product development**
+- 🔍 Actively exploring roles in **Data Science**, **Analytics**, or **AI-powered product development**
 - 🌱 Currently: **AI/ML Intern @ Imarticus Learning**
 - 💼 Previously: **Engineer @ Vayavya Labs** – Built AI Chatbots & worked on ADAS
 - 🎓 Education: B.Tech (CSE) | PG in Machine Learning & AI (Ongoing)
@@ -24,7 +24,7 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -41,9 +41,9 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 ![Ollama](https://img.shields.io/badge/Ollama-1A1A1A?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Visualization & Deployment**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E5D90?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
@@ -53,20 +53,21 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ### 🧠 AI Blog Evaluator  
 **Tech**: Python, GPT-4, Hugging Face, Streamlit  
-- Automates blog evaluation using summarization, plagiarism checks, and authorship detection  
-- Achieves 95%+ accuracy in distinguishing AI vs human content  
-- Used by mentors for real-time content assessment
+- Automates blog evaluation using summarization, authorship classification, and originality checks  
+- Uses zero-shot GPT models for high-accuracy content insights  
+- Dashboard for mentor review and real-time scoring
 
 ### 📊 Data Insight Platform  
 **Tech**: Python, Streamlit, LangChain, Pinecone  
-- Real-time retail/IoT simulation  
-- Integrates PDF Q&A with Retrieval-Augmented Generation  
-- Dynamic dashboard with real-time ML predictions
+- Simulates real-time retail/IoT data flow  
+- Visualizes ML predictions on live streams  
+- Built-in PDF Q&A powered by Retrieval-Augmented Generation
 
 ### 🏥 Hospital Management System  
 **Tech**: MySQL  
-- Built a secure, role-based CRUD interface  
-- Optimized for performance and easy access to patient data
+- Secure, role-based CRUD system  
+- Optimized for fast querying and clean UI  
+- Focused on data integrity and patient records
 
 ---
 
@@ -77,6 +78,16 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 - 🐍 100 Days of Python Bootcamp  
 - 📈 Data Analyst Bootcamp - *Krish Naik*
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srushtikandagal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtikandagal&theme=tokyonight" />
+</p>
+
+---
 
 ## 📊 Most Used Languages
 
@@ -96,7 +107,7 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 
 ## 🤝 Let's Connect
 
-Feel free to reach out for collaborations, discussions, or just to say hi!  
+Feel free to reach out for collaborations, analytics projects, or just to say hi!  
 📧 Email: srushtimkandagal@gmail.com  
 💼 LinkedIn: [linkedin.com/in/srushtikandagal](https://www.linkedin.com/in/srushtikandagal)  
 🐙 GitHub: [github.com/srushtikandagal](https://github.com/srushtikandagal)
@@ -109,4 +120,4 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 
 ---
 
-> _“Turning AI concepts into impactful, production-ready applications.”_
+> _“Blending data intuition with AI to power intelligent decisions.”_
