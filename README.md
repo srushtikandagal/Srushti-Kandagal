@@ -17,10 +17,12 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Data Science and GenAI enthusiast** creating intelligent solutions with a strong focus on **Data Science, Gen AI, MLOps, and Model Deployment**.
+I'm a **motivated Data Scientist and Analyst** with a passion for solving real-world problems through **Data Science, Generative AI, MLOps, and scalable model deployment**. With hands-on experience in **Python, SQL, Power BI**, and tools like **LangChain, Hugging Face**, and **OpenAI APIs**, I build end-to-end solutions that are not just technically sound, but also impactful. I thrive in collaborative teams, adapt quickly to new challenges, and bring a strong sense of ownership and clarity to every project I work on.
 
-🎯 Currently: **AI/ML Intern @ Imarticus Learning**  
+
+🎯 Currently: **Data Science Intern @ Imarticus Learning**  
 🎯 Previously: **Engineer @ Vayavya Labs**
+🎯 Previously: **AI/ML Intern at QuantMasters**
 🎯 Education: **B.Tech in CSE | PG in Machine Learning & AI (Ongoing)**
 
 🚀 I love building AI-driven tools for real-world problems—blending technology with creativity to deliver impactful, scalable solutions.
