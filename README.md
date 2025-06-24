@@ -1,76 +1,79 @@
-# Generate the README.md file with the formatted content
-readme_content = """
-# 👋 Hi, I'm Srushti Kandagal — Data & AI Specialist
+<h1 align="center">Hi, I'm Srushti Kandagal 👋</h1>
+<h3 align="center">🚀 Data Scientist | Generative AI Enthusiast | Streamlit Developer</h3>
 
-🔍 Actively seeking full-time roles in **Data Science | AI/ML Engineering | NLP | Data Analytics**  
-📍 Location Preference: India (Open to Remote/Hybrid) | 🕒 Availability: Immediate Joiner
-
----
-
-## 💡 About Me
-
-I’m a data-driven problem solver with a strong background in **Machine Learning, AI, NLP, and Data Analytics**. I build scalable, insight-rich solutions — from dashboards to GenAI apps — that simplify decision-making and amplify impact.
-
-🎓 PGP in ML & AI | B.Tech in CSE  
-🛠️ Tools: Python, LangChain, OpenAI, SQL, Power BI  
-📊 Passion: Using AI + data to solve real-world challenges
+<p align="center">
+  <a href="mailto:srushtimkandagal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/srushtikandagal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/srushtikandagal"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## ⚒️ Tech Stack
+## 👩‍💻 About Me
 
-**Languages & Tools**  
-`Python` • `SQL` • `TensorFlow` • `Keras` • `LangChain` • `Hugging Face` • `OpenAI API`
+Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Generative AI**, **LLMs**, and **NLP applications**. I specialize in transforming complex problems into deployable, AI-powered solutions using tools like **Streamlit**, **LangChain**, and **OpenAI APIs**.
 
-**Data Analytics & Visualization**  
-`Pandas` • `NumPy` • `EDA` • `Power BI` • `Plotly` • `Advanced Excel` • `Streamlit`
+- 🔍 Actively seeking roles in **AI/ML**, **Data Science**, or **GenAI product development**
+- 🌱 Currently: **AI/ML Intern @ Imarticus Learning**
+- 💼 Previously: **Engineer @ Vayavya Labs** – Built AI Chatbots & worked on ADAS
+- 🎓 Education: B.Tech (CSE) | PG in Machine Learning & AI (Ongoing)
 
-**ML & AI Engineering**  
-`Scikit-learn` • `Deep Learning` • `Model Evaluation` • `NLP Pipelines` • `LLMs` • `RAG`
+---
 
-**Database & Deployment**  
-`MySQL` • `Microsoft SQL Server` • `Docker` • `PyMuPDF` • `Prompt Engineering`
+## 🔧 My Tech Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-006400?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 NLP Blog Evaluator (AI vs Human, GPT-4, Cohere)  
-> Auto-summarizes blogs, detects AI content, and displays readability scores — accelerated mentor evaluations by 30%.
+### 🧠 AI Blog Evaluator  
+**Tech**: Python, GPT-4, Hugging Face, Streamlit  
+- Automates blog evaluation using summarization, plagiarism checks, and authorship detection  
+- Achieves 95%+ accuracy in distinguishing AI vs human content  
+- Used by mentors for real-time content assessment
 
-### 🔎 Data Insight Platform (Streamlit + ML + RAG)  
-> Real-time simulation + predictions + PDF Q&A — built for retail, IoT, and document intelligence.
+### 📊 Data Insight Platform  
+**Tech**: Python, Streamlit, LangChain, Pinecone  
+- Real-time retail/IoT simulation  
+- Integrates PDF Q&A with Retrieval-Augmented Generation  
+- Dynamic dashboard with real-time ML predictions
 
-### 🏥 Hospital Management DBMS (MySQL + Access Control)  
-> Designed normalized schemas, secure CRUD operations, and optimized data access.
-
----
-
-## 📜 Certifications
-
-- 🧠 Hugging Face & LangChain – Complete AI Stack  
-- 📊 Microsoft Power BI (PL-300 Prep)  
-- 🔍 Data Analyst Bootcamp – Krish Naik  
-- 🐍 100 Days of Python – Udemy  
-- 📐 Mathematics for Gen AI – Krish Naik
+### 🏥 Hospital Management System  
+**Tech**: MySQL  
+- Built a secure, role-based CRUD interface  
+- Optimized for performance and easy access to patient data
 
 ---
 
-## 🌐 Let's Connect
+## 🏅 Certifications
 
-I’m open to **Data Analyst**, **Data Scientist**, **AI/ML Engineer**, and **NLP roles**.  
-Let’s collaborate or chat about exciting opportunities!
+- 🤖 Hugging Face & LangChain - *Krish Naik*  
+- 📊 PL-300: Power BI Data Analyst - *Udemy*  
+- 🐍 100 Days of Python Bootcamp  
+- 📈 Data Analyst Bootcamp - *Krish Naik*
 
-📧 Email: [srushtimkandagal@gmail.com](mailto:srushtimkandagal@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/srushtikandagal](https://linkedin.com/in/srushtikandagal)  
-🐙 GitHub: [github.com/srushtikandagal](https://github.com/srushtikandagal)
+---
 
-> _“The best way to predict the future is to create it.” – Peter Drucker_
-"""
+## 📊 GitHub Stats
 
-# Save the README.md content
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srushtikandagal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtikandagal&theme=tokyonight" />
+</p>
 
-file_path
+---
+
+> _“Turning AI concepts into impactful, production-ready applications.”_
+
+🚀 *Let’s connect if you’re hiring or collaborating on AI-driven solutions!*
