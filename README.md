@@ -1,68 +1,77 @@
-# Srushti-Kandagal
-
-<h1 align="center">Hi there, I'm Srushti Kandagal! 👋</h1>
+<h1 align="center">Hi there, I'm Srushti Kandagal 👋</h1>
+<h3 align="center">🚀 Data Scientist | Generative AI Explorer | Streamlit Developer</h3>
 
 <p align="center">
-  <a href="mailto:srushtimkandagal@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/srushtikandagal"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/srushtikandagal"><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:srushtimkandagal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/srushtikandagal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/srushtikandagal"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💡 About Me
+## 👩‍💻 About Me
 
-I’m a **Data Scientist** with a passion for **LLMs, Generative AI, NLP, and Streamlit-powered applications**. I specialize in building **scalable AI solutions** that bridge the gap between business needs and ML technology.
+I'm a passionate **Data Scientist** actively working with **Large Language Models (LLMs)**, **Generative AI**, and **NLP** to build innovative applications. My expertise lies in **prompt engineering**, **text summarization**, **RAG pipelines**, and developing **Streamlit-based dashboards** for real-time insights.
 
-- 🔭 **Currently**: Data Scientist Intern at **Imarticus Learning**
-- 🧑‍💻 **Previously**: Engineer at **Vayavya Labs**, focused on AI Chatbots & ADAS
-- 🎓 **Education**: PG in AI/ML (Imarticus) | B.Tech (VTU - CSE)
-
-💬 I enjoy blending **technology with creativity** — from prompt engineering to building dashboards that drive decision-making!
+- 🌱 Currently: AI/ML Intern @ Imarticus Learning  
+- 💼 Previously: Engineer @ Vayavya Labs, focused on AI Chatbots & ADAS  
+- 🎓 Education: B.Tech in CSE | PG in Machine Learning & AI (Ongoing)
 
 ---
 
-## 🧠 Tech Stack
+## 🔧 Tech Stack
 
-**Languages & Frameworks:**
-
-<p>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/langchain-006400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/huggingface-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-006400?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
-**Tools & Platforms:** Power BI | Advanced Excel | PyMuPDF | Pinecone | Anthropic Claude | RAG Pipelines
-
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Projects
 
-### 🧪 [AI Blog Evaluator (Streamlit, GPT-4, HuggingFace)](https://github.com/srushtikandagal)
-- Extracts blog content, summarizes using LLMs, detects AI-vs-Human originality
-- Dashboard enables readability, keyword, and authenticity scoring for 100+ entries
+### 📘 AI Blog Evaluator
+**Tech**: Python, Hugging Face, Streamlit, OpenAI  
+- Scrapes blog URLs, performs summarization & originality checks  
+- Uses GPT-4 for zero-shot blog summarization  
+- Flags AI vs Human-authored content with 95% precision  
+- Deployed with a Streamlit dashboard for mentor review
 
 ### 📊 Data Insight Platform
-- Real-time simulation, ML predictions, PDF QA via RAG using Streamlit & OpenAI API
+**Tech**: Python, PyMuPDF, Pinecone, Streamlit  
+- Simulates real-time retail/IoT data  
+- Renders dynamic ML predictions  
+- Supports PDF-based RAG Q&A
 
-### 🏥 Hospital Management System
-- MySQL-based database with CRUD, RBAC & billing module optimization
+### 🏥 Hospital Management DBMS
+**Tech**: MySQL  
+- Role-based secure CRUD system  
+- Optimized query responses for patient record management
 
 ---
 
 ## 📜 Certifications
 
-- Hugging Face & LangChain AI Course — *Krish Naik*
-- Power BI Analyst PL-300 — *Udemy*
-- Python 100 Days of Code — *Udemy*
+- Hugging Face & LangChain AI Course — *Krish Naik*  
+- PL-300: Power BI Data Analyst — *Udemy*  
+- 100 Days of Python Pro Bootcamp  
 - Data Analyst Bootcamp — *Krish Naik*
 
 ---
 
-📫 **Let’s connect and create AI magic together!**
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srushtikandagal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtikandagal&theme=tokyonight" />
+</p>
+
+---
+
+_“Turning ideas into interactive AI-powered applications.”_
