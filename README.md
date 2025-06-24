@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Hi, I'm Srushti Kandagal 👋</h1>
+<h1 align="center">Hi There, I'm Srushti Kandagal 👋</h1>
 
 
 <p align="center">
