@@ -13,7 +13,6 @@
 </p>
 
 
-<
 ## 👩‍💻 About Me
 
 I'm a **motivated Data Scientist and Analyst** with a passion for solving real-world problems through **Data Science, Generative AI, MLOps, and scalable model deployment**. With hands-on experience in **Python, SQL, Power BI**, and tools like **LangChain, Hugging Face**, and **OpenAI APIs**, I build end-to-end solutions that are not just technically sound, but also impactful. I thrive in collaborative teams, adapt quickly to new challenges, and bring a strong sense of ownership and clarity to every project I work on.
