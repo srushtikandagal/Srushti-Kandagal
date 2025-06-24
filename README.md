@@ -77,10 +77,6 @@ Hi! I'm a detail-oriented **Data Scientist** with hands-on experience in **Gener
 - 🐍 100 Days of Python Bootcamp  
 - 📈 Data Analyst Bootcamp - *Krish Naik*
 
----
-
-## 📈 GitHub Stats
-
 
 ## 📊 Most Used Languages
 
