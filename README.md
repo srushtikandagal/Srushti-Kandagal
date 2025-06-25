@@ -12,6 +12,8 @@
   <a href="https://github.com/srushtikandagal"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="srushtikandagal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/srushtikandagal?trk=profile-badge">Srushti K.</a></div>
+              
 
 ## 👩‍💻 About Me
 
