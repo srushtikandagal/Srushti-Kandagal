@@ -11,8 +11,6 @@
   <a href="https://www.linkedin.com/in/srushtikandagal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/srushtikandagal"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="srushtikandagal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/srushtikandagal?trk=profile-badge">Srushti K.</a></div>
               
 
 ## 👩‍💻 About Me
@@ -74,12 +72,13 @@ I'm a **motivated Data Scientist and Analyst** with a passion for solving real-w
 - Visualizes ML predictions on live streams  
 - Built-in PDF Q&A powered by Retrieval-Augmented Generation
 
-### 🏥 Hospital Management System  
-**Tech**: MySQL  
-- Secure, role-based CRUD system  
-- Optimized for fast querying and clean UI  
-- Focused on data integrity and patient records
+### 🐦 Twitter Scraper
+**Tech**: Python, Tweepy, Pandas  
+- Collects tweets from specified users or hashtags
+- Supports filtering by date range and keywords
+- Cleans and exports data to CSV for downstream analysis
 
+Cleans and exports data to CSV for downstream analysis
 ---
 
 ## 📜 Certifications
